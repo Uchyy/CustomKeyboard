@@ -1,6 +1,7 @@
-🔤 Java Custom In-App Keyboard Generator 🔤
+#🔤 Java Custom In-App Keyboard 🔤#
 
-This project is a 🎨 Java-based solution for creating a custom in-app keyboard, designed to seamlessly adapt to all screen sizes. With rows of buttons resembling the QWERTY keyboard layout, this open-source repository offers developers a versatile tool to enhance user interaction in Android applications across various devices.
+This project is a 🎨 Java-based solution for creating a custom in-app keyboard, designed to seamlessly adapt to all screen sizes. 
+With rows of buttons resembling the QWERTY keyboard layout, this open-source repository offers developers a versatile tool to enhance user interaction in Android applications across various devices.
 
 
 🚀 Key Features:
